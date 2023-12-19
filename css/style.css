@@ -386,6 +386,7 @@ body.menu-expanded .menu .button-menu-expanded {
     padding-block: 3rem;
     display: flex;
     align-items: flex-start;
+    justify-content: space-between;
     background-color: var(--bg-header);
     height: fit-content;
 }
@@ -405,6 +406,7 @@ body.menu-expanded .menu .button-menu-expanded {
 
 .footer__content img { 
     width: 35%;
+    max-width: 600px;
 }
 
 
